@@ -14,9 +14,9 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Cobra Sanjay # the main title
+title: Cobra Sanjay 1 # the main title
 
-tagline: 1 nd only (TOPG) # it will display as the sub-title
+tagline: 1 nd only (TOPG ) # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   My unmatched perspicacity coupled with sheer indefatigability makes me a feared opponent in any realm of human endeavor
